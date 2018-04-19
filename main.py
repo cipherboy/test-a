@@ -2,5 +2,6 @@
 
 def __main__():
     print("This is a new featurez!")
+    print("HI")
 
 __main__()
